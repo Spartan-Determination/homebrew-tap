@@ -1,6 +1,6 @@
 cask "terminalconductor" do
   version "1.1.1"
-  sha256 "e431136f7cb768a58ddb694a0fd08e65440381cca2124b64557fb3c2b31c8f3b"
+  sha256 "7da01f119d0c43cc1e6741a63e1c1090ce93f7ac5231b4b63abdaea27b3089a0"
 
   url "https://updates.terminalconductor.com/v#{version}/TerminalConductor-#{version}-universal.dmg"
   name "TerminalConductor"
