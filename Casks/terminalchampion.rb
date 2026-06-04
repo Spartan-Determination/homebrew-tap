@@ -1,6 +1,6 @@
 cask "terminalchampion" do                                                                                                                  
-    version "1.1.0"                                                                                                                           
-    sha256 "0f19db73f1cffa53613e3d6ab91d0d8dc1b4dc8abd9d50e685e664ecb4c0a4bf"                                                                   
+    version "1.1.1"                                                                                                                           
+    sha256 "dd277b3ed9bb1c094d17db64b7fdd93e35c62afa2572317ab11b22eeea39543d"                                                                   
                                                                                                                                                 
     url "https://updates.terminalchampion.com/v#{version}/TerminalChampion-#{version}-universal.dmg"                                            
     name "TerminalChampion"                                                                                                                     
